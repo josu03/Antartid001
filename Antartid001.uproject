@@ -51,6 +51,10 @@
 		{
 			"Name": "NiagaraFluids",
 			"Enabled": true
+		},
+		{
+			"Name": "MotionWarping",
+			"Enabled": true
 		}
 	]
 }
